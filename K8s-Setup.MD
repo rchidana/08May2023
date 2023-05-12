@@ -1,8 +1,6 @@
-# Minikube & kubectl set-up on Ubuntu 20.04
+# Minikube & kubectl set-up on Ubuntu 22.04
 
-# PS: Lab machines have already been configured, all that is required for participants is to run this command -> minikube start
-
-### Steps to Install Minukube to run Kubernetes Version 1.25.3 on Ubuntu 20.04
+### Steps to Install Minukube to run Kubernetes Version 1.25.3 on Ubuntu 22.04
 
 Install latest stable Kubectl
 
